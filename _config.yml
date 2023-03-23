@@ -1,6 +1,5 @@
 title: <p align="center"> Praneta M </p>
-logo: /assets/img/logo.png
-logo: /assets/img/pranetaProfilepic.JPG
+logo: /assets/img/pranetaProfilepic.jpg
 
 description:
   <p align="center">
@@ -21,3 +20,7 @@ description:
   that lie ahead in this dynamic and rapidly evolving field.
   <br>
   </p>
+
+
+
+theme: jekyll-theme-minimal
